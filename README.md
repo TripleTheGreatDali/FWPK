@@ -92,4 +92,4 @@ if __name__ == "__main__":
 
 ## 🎥 Watch the Demo
 
-https:///.dust/demo.gif
+![Demo](https://github.com/TripleTheGreatDali/FWPK/blob/master/dust/demo.gif?raw=true)
