@@ -47,6 +47,11 @@ But what if those stories are written in code? FWPK invites you to weave your na
 
 ## 🧩 QUICK START: YOUR THOUGHTFUL PYTHON ADVENTURE  
 
+## 🎥 Watch the Demo  
+
+![FWPK Demo](https://github.com/TripleTheGreatDali/FWPK/blob/master/dust/demo.gif?raw=true)
+
+
 ```python
 # 🌌 FWPK Launchpad
 # Inspired by Turing, Fibonacci, and the Cosmos' Pulse
@@ -89,7 +94,3 @@ if __name__ == "__main__":
     scientific_puzzle()
     print("\n🔮 The code pauses... but your journey accelerates. What universe will you build?")
 
-
-## 🎥 Watch the Demo
-
-![me](https://github.com/TripleTheGreatDali/FWPK/blob/master/dust/demo.gif)
