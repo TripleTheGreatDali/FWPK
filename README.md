@@ -16,7 +16,7 @@ But what if those stories are written in code? FWPK invites you to weave your na
 - **Blend Play with Growth**: Transform idle moments into intellectual odysseys.  
 - **Embrace the Infinite**: From quantum bits to cosmic simulations, Python becomes your spaceship.  
 
-🌟 **Unique Thought**: Programming is humanity's rebellion against entropy—organizing chaos into elegant systems, one line at a time.  
+🌟 **Unique Thought**: Programming is humanity's rebellion against entropy organizing chaos into elegant systems, one line at a time.  
 
 ---
 
