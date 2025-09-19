@@ -92,4 +92,6 @@ if __name__ == "__main__":
 
 ## 🎥 Watch the Demo
 
-![Demo](https://github.com/TripleTheGreatDali/FWPK/blob/master/dust/demo.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/TripleTheGreatDali/FWPK/blob/master/dust/demo.gif?raw=true" width="600"/>
+</p>
