@@ -29,7 +29,7 @@ But what if those stories are written in code? FWPK invites you to weave your na
 - **1989**: Tim Berners-Lee’s World Wide Web 🌐 A small code spark that ignited global revolution.  
 - **Today**: You in FWPK 🌍 Your "Hello, World!" joins this timeline of innovation.  
 
-🔮 **Futuristic Twist**: Imagine coding in 2050—neural interfaces where thoughts compile directly. FWPK prepares you for that dawn.  
+🔮 **Futuristic Twist**: Imagine coding in 2050 neural interfaces where thoughts compile directly. FWPK prepares you for that dawn.  
 
 ---
 
