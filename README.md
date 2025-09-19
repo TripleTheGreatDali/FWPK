@@ -92,4 +92,4 @@ if __name__ == "__main__":
 
 ## 🎥 Watch the Demo
 
-[▶️ Watch the FWPK Demo](./dust/20250919-2134-25.7077508.mp4)
+[▶️ Watch the FWPK Demo](./dust/demo.gif)
