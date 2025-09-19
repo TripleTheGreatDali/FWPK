@@ -22,12 +22,12 @@ But what if those stories are written in code? FWPK invites you to weave your na
 
 ## ⏳ HISTORICAL ECHOES: CODING THROUGH THE AGES  
 
-- **c. 825 CE**: Al-Khwarizmi’s Algorithms 📜 – The foundation of systematic problem-solving.  
-- **1843**: Ada Lovelace’s Poetic Programs 🖋️ – She imagined machines creating art and music.  
-- **1936**: Alan Turing’s Universal Machine 🤖 – Proved any computable problem could be solved.  
-- **1957**: Grace Hopper’s Debugging Legend 🦋 – Every bug fixed honors her moth-hunting spirit.  
-- **1989**: Tim Berners-Lee’s World Wide Web 🌐 – A small code spark that ignited global revolution.  
-- **Today**: You in FWPK 🌍 – Your "Hello, World!" joins this timeline of innovation.  
+- **c. 825 CE**: Al-Khwarizmi’s Algorithms 📜 The foundation of systematic problem-solving.  
+- **1843**: Ada Lovelace’s Poetic Programs 🖋️ She imagined machines creating art and music.  
+- **1936**: Alan Turing’s Universal Machine 🤖 Proved any computable problem could be solved.  
+- **1957**: Grace Hopper’s Debugging Legend 🦋 Every bug fixed honors her moth-hunting spirit.  
+- **1989**: Tim Berners-Lee’s World Wide Web 🌐 A small code spark that ignited global revolution.  
+- **Today**: You in FWPK 🌍 Your "Hello, World!" joins this timeline of innovation.  
 
 🔮 **Futuristic Twist**: Imagine coding in 2050—neural interfaces where thoughts compile directly. FWPK prepares you for that dawn.  
 
@@ -35,11 +35,11 @@ But what if those stories are written in code? FWPK invites you to weave your na
 
 ## 🔬 SCIENCE MEETS SYNTAX: THE COSMIC CODE  
 
-- **Fractals & Recursion 🌿** – Recursive functions mirror infinite natural patterns.  
-- **Neural Networks & Brains 🧠** – AI models echo evolution and adaptation.  
-- **Quantum Uncertainty ⚛️** – Algorithms explore probability and unpredictability.  
-- **Physics Simulations 🚀** – Python equations become interactive worlds.  
-- **Biology’s Binary 🧬** – DNA parallels binary; BioPython brings life into code.  
+- **Fractals & Recursion 🌿** Recursive functions mirror infinite natural patterns.  
+- **Neural Networks & Brains 🧠** AI models echo evolution and adaptation.  
+- **Quantum Uncertainty ⚛️** Algorithms explore probability and unpredictability.  
+- **Physics Simulations 🚀** Python equations become interactive worlds.  
+- **Biology’s Binary 🧬** DNA parallels binary; BioPython brings life into code.  
 
 🌌 **Wonderful Insight**: The Fibonacci sequence appears in galaxies, flowers, and code alike.  
 
