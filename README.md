@@ -92,6 +92,4 @@ if __name__ == "__main__":
 
 ## 🎥 Watch the Demo
 
-<p align="center">
-  <img src="https://github.com/TripleTheGreatDali/FWPK/blob/master/dust/demo.gif?raw=true" width="600"/>
-</p>
+![me](https://github.com/TripleTheGreatDali/FWPK/blob/master/dust/demo.gif)
