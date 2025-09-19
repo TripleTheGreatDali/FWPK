@@ -88,3 +88,8 @@ if __name__ == "__main__":
     historical_countdown()
     scientific_puzzle()
     print("\n🔮 The code pauses... but your journey accelerates. What universe will you build?")
+
+
+## 🎥 Watch the Demo
+
+[▶️ Watch the FWPK Demo](./dust/20250919-2134-25.7077508.mp4)
